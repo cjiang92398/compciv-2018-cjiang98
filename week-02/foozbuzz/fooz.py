@@ -1,4 +1,3 @@
-
 # This function takes a small spin on the FizzBuzz problem, always printing out
 # the number in addition to 'FoozBuzz', 'Fooz', 'Buzz', or nothing.
 def fob(num):
