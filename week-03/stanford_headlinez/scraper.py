@@ -10,9 +10,7 @@ def print_hedz(url='https://www.stanford.edu/news/'):
 
     for t in htags:
         hedtxt = extract_headline_text(t)
-        """do not print any empty lines"""
-        if hedtxt != '': 
-            print(hedtxt)
+        print(hedtxt)
 
 
 def extract_headline_text(txt):
@@ -43,7 +41,7 @@ def parse_headline_tags(txt):
     lines = txt.splitlines();
     list = []
     for l in lines:
-        if 'h3' in l:
+        if 'h3><a' in l:
             list.append(l)
     return list
 
