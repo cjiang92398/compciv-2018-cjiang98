@@ -1,8 +1,8 @@
-### **Final Project Summary**
+#### Final Project Summary
 
 My idea for a report on Senate finance disclosures is to look at how many Senators have filed blind trusts. A visualization idea is to show a graph of the number of blind trust filings by year. And, it’d also be interesting to break it down by party (Republican vs. Democratic).
 
-### **References**
+### References
 
 *Rick Scott turning attention to possible Senate bid - http://www.heraldtribune.com/news/20180312/rick-scott-turning-attention-to-possible-senate-bid*
 
