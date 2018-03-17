@@ -18,9 +18,11 @@ Scott vs. Nelson for Senate? If so, governor will have a lot more disclosing to 
 For two terms, Florida’s feeble blind trust law has let Governor Rick Scott stash his tens of millions of dollars in stocks, bonds, hedge funds, and oil and gas partnerships mostly out of sight and in friendly hands. Should he become a candidate for the U.S. Senate – Scott will face tougher federal financial disclosure rules that promise to expose more details about the size and scope of his enormous holdings. The blind trust is not a popular option on Capitol Hill. Only five senators currently have a Senate qualified blind trust (QBT). The Democrats: Tammy Baldwin of Wisconsin, Dianne Feinstein of California, and Joseph Manchin of West Virginia. The Republicans: Orrin Hatch of Utah and Johnny Isakson of Georgia.
 
 Senate Democrats push Trump to shed his assets - https://www.politico.com/story/2016/12/senate-democrats-trump-conflict-232550
+
 In a letter, Senate Democrats press Trump to follow guidelines set out by the Office of Government Ethics to divest his business holdings and set up a blind trust that isn’t run by his own family members. Trump has said his three oldest children would take over the family business. But, that arrangement has raised potential ethical concerns.
 
 Elizabeth Warren Introduces Bill to Resolve Trump’s Conflicts of Interest - https://www.huffingtonpost.com/entry/elizabeth-warren-trump-conflicts_us_58728387e4b099cdb0fd8845 
+
 The bill would require Trump to divest while implementing the Constitution’s Emoluments Clause. Elizabeth Warren said in a statement, “The American people deserve to know that the President of the United States is working to do what’s best for the country – not using his office to do what’s best for himself and his businesses. The only way for President-elect Trump to truly eliminate conflicts-of-interest is to divest his financial interests by placing them in a blind trust.”
 
 Other Sources
